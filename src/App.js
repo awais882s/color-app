@@ -13,7 +13,6 @@ export default function App() {
       window.document.body.style.backgroundColor = color;
     }
   };
-
   return (
     <>
 
