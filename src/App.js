@@ -8,7 +8,6 @@ export default function App() {
   const getRandomNumber = () => {
     return Math.floor(Math.random() * hex.length);
   };
-
   const handleClick = i => {
     let hexColor = "#";
     for (let i = 0; i < 6; i++) {
