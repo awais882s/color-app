@@ -15,7 +15,6 @@ export default function App() {
   };
   return (
     <>
-
       <div className="text-center">
         <button onClick={handleClick} value="Click Me" >Click Me</button>
       </div>
