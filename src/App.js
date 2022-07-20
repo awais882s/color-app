@@ -11,7 +11,7 @@ export default function App() {
       hexColor += hex[getRandomNumber()];
       setColor(hexColor);
       window.document.body.style.backgroundColor = color;
-    }          
+    }
   };
   return (
     <>
